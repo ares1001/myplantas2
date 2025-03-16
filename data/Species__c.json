@@ -1,0 +1,27 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef1"
+            },
+            "Name": "Aloe",
+            "Description__c": "Cura todo"
+        },
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef2"
+            },
+            "Name": "HierbaBuena"
+        },
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef3"
+            },
+            "Name": "Jazmin",
+            "Description__c": "Hermosa fragancia"
+        }
+    ]
+}

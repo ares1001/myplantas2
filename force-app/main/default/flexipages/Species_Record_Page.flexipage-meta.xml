@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
     <flexiPageRegions>
         <itemInstances>
@@ -105,8 +105,7 @@
                 <identifier>RecordPulverization_cField2</identifier>
                 <visibilityRule>
                     <criteria>
-                        <leftValue
-            >{!Record.Ideal_Max_Temperature__c}</leftValue>
+                        <leftValue>{!Record.Ideal_Max_Temperature__c}</leftValue>
                         <operator>GT</operator>
                         <rightValue>25</rightValue>
                     </criteria>
@@ -373,8 +372,7 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>richTextValue</name>
-                    <value
-          >&lt;h5&gt;&lt;span style=&quot;font-family: verdana; font-size: 24px;&quot;&gt;Hola a todos&lt;/span&gt;&lt;span style=&quot;font-family: verdana; font-size: 24px; color: rgb(247, 120, 120);&quot;&gt;&lt;span class=&quot;ql-cursor&quot;&gt;﻿&lt;/span&gt;&lt;/span&gt;&lt;/h5&gt;</value>
+                    <value>&lt;h5&gt;&lt;span style=&quot;font-family: verdana; font-size: 24px;&quot;&gt;Hola a todos&lt;/span&gt;&lt;span style=&quot;font-family: verdana; font-size: 24px; color: rgb(247, 120, 120);&quot;&gt;&lt;span class=&quot;ql-cursor&quot;&gt;﻿&lt;/span&gt;&lt;/span&gt;&lt;/h5&gt;</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:richText</componentName>
                 <identifier>flexipage_richText</identifier>
